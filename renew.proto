@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package renew;
+
+option go_package = "protocol_buffers/renew";
+
+message ApiCredential {
+  string nonce = 1;
+  repeated string roles = 2;
+}
