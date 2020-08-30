@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Version : 0.3.0
+
+- fix: package : See merge request getto-systems-base/projects/example/auth-protocol_buffers!9
+
+
 ## Version : 0.2.0
 
 - fix: message name : See merge request getto-systems-base/projects/example/auth-protocol_buffers!7
