@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Version : 0.5.0
+
+- add: proto : See merge request getto-systems-base/projects/example/api-protobuf!14
+- rename: repo name : See merge request getto-systems-base/projects/example/api-protobuf!13
+
+
 ## Version : 0.4.0
 
 - add: password_login : See merge request getto-systems-base/projects/example/auth-protocol_buffers!11
